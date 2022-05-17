@@ -4,7 +4,7 @@ Repository for figures created in _Artifact characterization and mitigation tech
 bidirectional deep brain stimulation platforms_. Creates plots for overflow testing and distortion across sense blank values. Also includes
 plots for ratio testing. 
 
-## Saved Figures
+### Saved Figures
 Folder contains example figures from paper
 
 # Functions
