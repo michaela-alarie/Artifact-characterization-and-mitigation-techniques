@@ -4,6 +4,9 @@ Repository for figures created in _Artifact characterization and mitigation tech
 bidirectional deep brain stimulation platforms_. Creates plots for overflow testing and distortion across sense blank values. Also includes
 plots for ratio testing. 
 
+## Saved Figures
+Folder contains example figures from paper
+
 # Functions
 ## **calculate_overflow.m**
 Calculates percent overflow across packets in one LFP session folder. Loops through all packets, looking for overflow across all the channels,
